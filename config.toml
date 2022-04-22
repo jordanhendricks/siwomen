@@ -1,0 +1,4 @@
+baseURL = "siwomen.fan"
+languageCode = "en-us"
+title = "siwomen.fan"
+theme = "hugo-classic"

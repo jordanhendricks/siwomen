@@ -1,0 +1,9 @@
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/ghazal"]
+	path = themes/ghazal
+	url = https://github.com/darshanbaral/ghazal.git
+[submodule "themes/hugo-classic"]
+	path = themes/hugo-classic
+	url = git@github.com:goodroot/hugo-classic.git
