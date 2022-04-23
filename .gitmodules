@@ -6,4 +6,4 @@
 	url = https://github.com/darshanbaral/ghazal.git
 [submodule "themes/hugo-classic"]
 	path = themes/hugo-classic
-	url = git@github.com:goodroot/hugo-classic.git
+	url = git@github.com:jordanhendricks/hugo-classic.git

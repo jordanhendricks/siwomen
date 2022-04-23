@@ -1,5 +1,13 @@
 baseURL = "http://siwomen.fan"
-copyright = "Copyright 2022-{year} Jordan Hendricks. All rights reserved."
+copyright = "Copyright 2022 Jordan Hendricks. All rights reserved."
 languageCode = "en-us"
 title = "siwomen.fan"
 theme = "hugo-classic"
+
+[[menu.main]]
+name = "about"
+url = "/about"
+
+[[menu.feed]]
+name = "subscribe"
+url = "/index.xml"

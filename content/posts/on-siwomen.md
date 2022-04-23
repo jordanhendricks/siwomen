@@ -1,7 +1,6 @@
 ---
 title: "On _Sports Illustrated for Women_"
 date: 2022-04-22T14:02:27-07:00
-author: Jordan Hendricks
 draft: true
 ---
 
@@ -35,11 +34,28 @@ school whose student body was generally much wealthier than my previous one.
 
 Sports were a core part of my identity then, and they are now, too. Over the
 course of my life, I’ve had many athletic pursuits, including, in more or less
-chronological order from pre-K to my current age: soccer, softball, basketball,
-a variety of martial arts from karate to MMA to krav maga, pole vaulting, track
-(400m and 800m relay), cross-country, rugby, yoga, powerlifting, bodybuilding,
-distance running (half-marathon and marathon), rollerblading, rollerskating,
-and most recently, olympic weightlifting. Still, if you had asked me until very
+chronological order from pre-K to my current age:
+
+* soccer
+* softball
+* basketball
+* a variety of martial arts, from karate to MMA to krav maga
+* pole vaulting
+* track (400m, 100m hurdles, and 4x200m relay)
+* cross-country
+* rugby
+* yoga
+* hiking
+* backpacking
+* distance running (half-marathon and marathon)
+* trail running
+* powerlifting
+* bodybuilding
+* rollerblading
+* rollerskating
+* olympic weightlifting
+
+Still, if you had asked me until very
 recently if I considered myself an athlete, I would’ve emphatically declined.
 In environments with other athletes, I never felt I was a standout in the room.
 At the same time, I’m generally athletic, somewhat coordinated, naturally very
@@ -261,7 +277,7 @@ say about their relationship with sports. I would encourage all cis people to
 be curious about their experiences. Some of my favorite athletes are:
 
 * [Angel Flores](https://www.instagram.com/arkangeljoy/?hl=en), a powerlifter and olympic weightlifter, who was featured in the
-tv show [Queer Eye](https://www.netflix.com/title/80160037) (Season 6, Episode 2). She wrote a great [blog post](https://theoutfoundation.org/guest-blog-angel-flores/https://theoutfoundation.org/guest-blog-angel-flores/) about her
+tv show [Queer Eye](https://www.netflix.com/title/80160037) (Season 6, Episode 2). She wrote a great [blog post](https://theoutfoundation.org/guest-blog-angel-flores) about her
 experiences transitioning as an athlete, anchored to the perspective of what’s
 going through her head during a powerlifting competition.
 
