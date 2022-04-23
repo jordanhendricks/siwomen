@@ -321,8 +321,8 @@ of its time the publication feels. In sharp contrast to other women's magazines
 of the time, particularly ones about fitness or health, _SI for Women_
 glorified women for their athletic
 achievements, repeatedly highlighted the importance of eating enough food to
-fuel yourself for sports and health, and treated women’s sports
-the way men's sports has always been treated. I also stumbled upon an almost
+fuel yourself for sports and health, and treated women’s sports seriously in a way that
+men's sports has always been treated. I also stumbled upon an almost
 poetic discovery: Even though I only recall learning about the somewhat obscure
 sport of olympic weightlifting a few years ago, _SI for Women_ had been
 covering it all along. Multiple issues feature a young [Cheryl
