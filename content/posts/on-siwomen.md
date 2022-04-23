@@ -1,7 +1,6 @@
 ---
 title: "On _Sports Illustrated for Women_"
 date: 2022-04-22T14:02:27-07:00
-draft: true
 ---
 
 One of the clear dividing lines in my life is the first time I received an
@@ -100,19 +99,19 @@ telling me it was important to stay in sports.
 
 Misogyny, compulsive heterosexuality, and the particular fatphobia of the era
 (the 2000s) contributed, too. Men of all ages made comments about my natural
-strength — and my delight in showing it off — being unattractive, and I was
+strength — and my joy in showing it off — being unattractive, and I was
 strongly conditioned to care about their opinions. My male peers, emboldened by
 a culture that dismisses women’s athletics, told me that my athletic
-accomplishments didn’t matter or that I would never beat boys at my sport. (I
-routinely took this on as a challenge and delighted in proving them wrong.) As
-I got older, my body as well as my tomboy fashion preferences seemed to invite
-comments about what athletes, and girls in general, should look like. The idea
-of a single athletic body type is obviously just plain wrong — one of the
-things I loved about _Sports Illustrated for Women_ was a regular feature where
-they highlighted how a variety of athletes’ bodies made them perfect for their
-sport!
+accomplishments didn’t matter because I was a girl, or that I would never beat
+boys at my sport. (I routinely took this on as a challenge and delighted in
+proving them wrong.) As I got older, my body as well as my tomboy fashion
+preferences seemed to invite comments about what athletes, and girls in
+general, should look like. The idea of a single athletic body type is obviously
+just plain wrong — one of the things I loved about _Sports Illustrated for
+Women_ was a regular feature where they highlighted how a variety of athletes’
+bodies made them perfect for their sport!
 
-{{< figure src="/whats-my-sport.jpg" title="SI Women had a regular feature called \"What's My Sport?\", which depicted an athlete and a clue about what sport she played. The featured asked \"experts\" to guess what her sport was, with the answer revealed at the bottom. (The \"experts\" were very often wrong, and I found them to be the least interesting part of this feature.)." >}}
+{{< figure src="/whats-my-sport.jpg" caption="**SI Women had a regular feature called \"What's My Sport?\", which depicted an athlete and a clue about what sport she played. The featured asked \"experts\" to guess what her sport was, with the answer revealed at the bottom. (The \"experts\" were very often wrong, and I found them to be the least interesting part of this feature.).**" >}}
 
 Still, I didn’t have the “right” body to many people. From the time I
 was a baby, I was usually larger than my peers (I was in the 97th percentile
@@ -163,8 +162,8 @@ and grew stronger.
 At the start of the COVID-19 pandemic, like many others I found myself turning
 to the hobbies of my childhood for comfort and novelty, particularly in the
 early days where I stayed home almost all the time. I bought a Lisa Frank
-coloring book pack; I revived my love of Dance Dance Revolution by getting a
-step pad and playing the open source clone StepMania. 
+coloring book pack; I revived my love of [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) by getting a
+step pad and playing the open source clone [StepMania](https://www.stepmania.com/). 
 
 {{< figure src="/lisa-frank.jpg" title="The Lisa Frank art pack that entertained me for much of the early pandemic." >}}
 
@@ -217,25 +216,38 @@ Weightlifting requires a lot of the nervous system because the athlete is liftin
 weight from the ground to overhead, using practically every muscle in the body,
 in just a few seconds. Consequently, the practice rewards taking care of one’s
 central nervous system through stress management, sleep, and good nutrition
-(not depriving oneself of food!). The olympic lifts are highly technical and in
-my opinion, also extremely nerdy; they can be endlessly analyzed for perfect
-technique, and lifters improve by breaking these complex lifts down into
-smaller components and improving strength and technique in specific positions.
+(not depriving oneself of food!). Something I noticed immediately about the sport
+was that there are excellent olympic lifters of all sizes — in fact, the people
+who can lift the most weight are generally also those who weigh the most. The world's
+treatment of fat people seems only marginally better now than I was a child,
+but seeing athletes, particularly women, celebrated regardless of their body
+size was very powerful.
+
+Olympic lifting also deeply appeals to the analytical, curious side of me.
+The olympic lifts are highly technical and in my opinion, extremely nerdy;
+they can be endlessly analyzed for perfect technique, and lifters improve by
+breaking these complex lifts down into smaller components and improving
+strength and technique in specific positions. The sport connects my brain, my
+natural strength, and the athleticism of my body in a way
+that I’ve never experienced in any activity, athletic or
+otherwise. I often think to myself how this sport feels exactly made for me.
+It gave me a new set of goals to strive for in my fitness pursuits, ones based
+on performance, consistency, and mental fortitude.
+
+There was something special about the gym that I joined, too; the belief my
+coach and my fellow lifters (mostly women) had in me and my potential in the
+sport was invigorating. In my gym, I am celebrated for my strength and
+accomplishments, and no one cares what I weigh or what I look like in
+low-rise jeans. Olympic lifting and the community I found through it helped me
+to reclaim my lost identity as an athlete, reconnecting me to a deep joy and
+love for sport that is surely an innate part of me.
+In the process, I found that I grew a desire to take up space,
+love my natural strengths, and take care for my body rather than fighting against it.
+At last, I revived the confidence and self-esteem I once had as that fearless girl on the
+soccer field.
 
 
-Olympic lifting connects the analytical, curious side of my brain, my natural
-strength, and the athleticism of my body in a way that I’ve never experienced
-in any activity, athletic or otherwise. There was something special about the
-gym that I joined, too; the belief my coach and my fellow lifters (mostly
-women) had in me and my potential in the sport was invigorating. In my gym, I
-am celebrated for my strength and accomplishments, and no one cares what my
-weight is or what I look like in low-rise jeans. Olympic lifting and the
-community I found through it helped me to reclaim my lost identity as an
-athlete, reconnecting me to a deep joy and love for sport that is surely an
-innate part of me. In the process, it also revived the confidence and
-self-esteem I once had as that fearless girl on the soccer field.
-
-{{< figure src="/happy-snatch.jpg" title="A potato-quality image of me extremely happy after hitting a new snatch PR." >}}
+{{< figure src="/happy-snatch.jpg" caption="**A potato-quality image of me extremely happy after a hard-earned snatch PR. My shirt says, \"It's Britney, b\*tch,\" which I wore to celebrate Britney Spears' then recent release from her conservatorship. I love the juxtaposition here: cheering the newfound freedom of a beloved celebrity of my childhood — another victim of early-to-mid-aughts culture — and a visual depiction of the mental freedom I found in the sport of olympic weightlifting.**" >}}
 
 Something that has been heavy on my heart lately is the growing wave of vitriol
 directed toward trans people in the United States, with a systematic focus on
@@ -251,15 +263,20 @@ them in a world that may send them similar messages, is unconscionable.
 
 
 A common refrain is that keeping trans people out of sports somehow protects
-women’s sports, which is a laughably stupid, insulting, and ironic claim. For
-one, this is the only time I have ever seen such a large group of people clamor
+women’s sports, which is a laughably stupid, insulting, and ironic claim. It is
+one I find especially worrying, as I hear it echoed in women's sports corners
+of the internet that are usually quite progressive, and have even
+heard repeated by other queer cis people in real life. It is worth
+considering the source of this claim and who it benefits.
+For one, this is the only time I have ever seen such a large group of people clamor
 that women’s sports must be “protected.” Yet the [continued absence](https://www.purdue.edu/newsroom/releases/2021/Q1/overlooking-her-shot-womens-sports-need-an-assist-as-coverage-remains-the-same-as-30-years-ago.html) of women’s
 sports from sports media and other inequalities such as pay inequity, make
 clear that women’s athletics have been and continue to be dramatically
 undervalued and disrespected. Where have all these ostensible supporters of
-women’s sports been until now? It is clear that this specious argument for
-“protecting women’s sports'' is a thinly veiled cover for blatant transphobia
-and paternalistic misogyny — no one ever claims that men’s sports must be
+women’s sports been until now? It is clear that the argument for
+“protecting women’s sports'' is a thinly veiled disguise for blatant transphobia —
+implying that trans women are not women — and paternalistic misogyny — no one
+ever claims that men’s sports must be
 protected from trans athletes. Instead transphobes (in power and otherwise)
 hold up women’s sports as a faux-feminist beacon to convince supporters,
 perhaps even ones who believe they support trans people, that somehow
@@ -298,19 +315,29 @@ After discovering olympic weightlifting as an adult, I affirmed how much sports
 had really meant to me throughout my life, and I reclaimed an identity —
 athlete — that I had been made to believe could not belong to me. Not
 coincidentally, I began to wonder about the women’s sports magazine I had once
-treasured so deeply. I asked around if anyone else I knew remembered _Sports
-Illustrated for Women_; so far, I haven’t found another person who does. I
-acquired some issues and have had a really good time revisiting them, in part
-for the fond memories and nostalgia. But I also marvel at how ahead of its time
-the publication feels. In sharp contrast to other women’s magazines,
-particularly ones about fitness or health, it glorified women for their
-athletic achievements, repeatedly highlighted the importance of eating enough
-food to fuel yourself for sports and health, and treated women’s sports
-seriously in a way that men’s sports has always been treated. I decided that I
-wanted to share more about this gem of a magazine and my connection to it with
-more of the world. I would love to show others what so much of sport means to
-me, how important coverage of women’s sports is for girls and women, and why we
-should care about making sport inclusive for everyone. But mostly, I just love
-_Sports Illustrated for Women_, and I think it would be fun to read it again,
-cover to cover, one more time.
+treasured so deeply. I acquired some issues and have enjoyed reading them again, in part for the fond memories and nostalgia. But I also
+marvel at how ahead
+of its time the publication feels. In sharp contrast to other women's magazines
+of the time, particularly ones about fitness or health, _SI for Women_
+glorified women for their athletic
+achievements, repeatedly highlighted the importance of eating enough food to
+fuel yourself for sports and health, and treated women’s sports
+the way men's sports has always been treated. I also stumbled upon an almost
+poetic discovery: Even though I only recall learning about the somewhat obscure
+sport of olympic weightlifting a few years ago, _SI for Women_ had been
+covering it all along. Multiple issues feature a young [Cheryl
+Haworth](https://en.wikipedia.org/wiki/Cheryl_Haworth), who
+represented the United States in the first year weightlifting was opened to
+women at the Olympics (2000) and won bronze at just 17 years old.
+
+{{< figure src="/cheryl.jpg" caption="**After Cheryl Haworth won bronze at the Sydney Olympics, _SI Women_ featured her in a full page photo in the May/June 2000 issue. Haworth still retains the title of heaviest snatch by an American woman, lifting 128 kg at the 2003 USA National Championships.**">}}
+
+I have asked many people I know if they remember the magazine _Sports
+Illustrated for Women_, and so far, I haven’t found another person who does.
+So I decided that I wanted to share more about this gem of a magazine and my
+connection to it with more of the world. I would love to show others what so
+much of sport means to me, how important coverage of women’s sports is for
+girls and women, and why we should care about making sport inclusive for
+everyone. But mostly, I just love _Sports Illustrated for Women_, and I think
+it would be fun to read it again, cover to cover, one more time.
 
