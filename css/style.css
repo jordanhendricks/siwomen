@@ -20,7 +20,7 @@
     }
 
     .article-meta, .menu a {
-      background: #393E41;
+      background: #E2C8E0;
       color: white;
     }
 
@@ -51,7 +51,7 @@
     }
 
     .article-meta, .menu a {
-      background: #E8DBC5;
+      background: #E2C8E0;
       color: #000;
     }
 
@@ -171,7 +171,7 @@ img, iframe, video {
 
 main {
   hyphens: auto;
-  max-width: 650px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.7em;
