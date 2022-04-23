@@ -330,7 +330,7 @@ Haworth](https://en.wikipedia.org/wiki/Cheryl_Haworth), who
 represented the United States in the first year weightlifting was opened to
 women at the Olympics (2000) and won bronze at just 17 years old.
 
-{{< figure src="/cheryl.jpg" caption="**After Cheryl Haworth won bronze at the Sydney Olympics, _SI Women_ featured her in a full page photo in the May/June 2000 issue. Haworth still retains the title of heaviest snatch by an American woman, lifting 128 kg at the 2003 USA National Championships.**">}}
+{{< figure src="/cheryl.jpg" caption="**After Cheryl Haworth won bronze at the Sydney Olympics, _SI Women_ featured her in a full page photo in the November/December 2000 issue. Haworth still retains the title of heaviest snatch by an American woman, lifting 128 kg at the 2003 USA National Championships.**">}}
 
 I have asked many people I know if they remember the magazine _Sports
 Illustrated for Women_, and so far, I haven’t found another person who does.
