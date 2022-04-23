@@ -1,6 +1,6 @@
 ---
 title: "On _Sports Illustrated for Women_"
-date: 2022-04-22T14:02:27-07:00
+date: 2022-04-23T14:02:27-07:00
 ---
 
 One of the clear dividing lines in my life is the first time I received an
