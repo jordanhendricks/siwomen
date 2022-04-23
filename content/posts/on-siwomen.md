@@ -111,7 +111,7 @@ just plain wrong — one of the things I loved about _Sports Illustrated for
 Women_ was a regular feature where they highlighted how a variety of athletes’
 bodies made them perfect for their sport!
 
-{{< figure src="/whats-my-sport.jpg" caption="**SI Women had a regular feature called \"What's My Sport?\", which depicted an athlete and a clue about what sport she played. The featured asked \"experts\" to guess what her sport was, with the answer revealed at the bottom. (The \"experts\" were very often wrong, and I found them to be the least interesting part of this feature.).**" >}}
+{{< figure src="/whats-my-sport.jpg" caption="**SI Women had a regular feature called \"What's My Sport?\", which depicted an athlete and a clue about what sport she played. The featured asked \"experts\" to guess what her sport was, with the answer revealed at the bottom. (The \"experts\" were very often wrong, and I found them to be the least interesting part of this feature.)**" >}}
 
 Still, I didn’t have the “right” body to many people. From the time I
 was a baby, I was usually larger than my peers (I was in the 97th percentile
@@ -219,7 +219,7 @@ central nervous system through stress management, sleep, and good nutrition
 (not depriving oneself of food!). Something I noticed immediately about the sport
 was that there are excellent olympic lifters of all sizes — in fact, the people
 who can lift the most weight are generally also those who weigh the most. The world's
-treatment of fat people seems only marginally better now than I was a child,
+treatment of fat people seems only marginally better now than when I was a child,
 but seeing athletes, particularly women, celebrated regardless of their body
 size was very powerful.
 
